@@ -1,6 +1,6 @@
 ### Hello, it's me
 
-- 📱 I love mobile development and create new projects
+- 📱 I love mobile development and to create new projects
 - 🔭 I’m currently working with React Native and Flutter
 - 📗 I'm learning more about software architecture
 - ❤ It's a pleasure to do what I love and help other people at the same time
