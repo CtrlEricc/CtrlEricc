@@ -1,4 +1,4 @@
-### It's me 🤓
+### Hello, it's me
 
 - 📱 I love mobile development and create new projects
 - 🔭 I’m currently working with React Native and Flutter
